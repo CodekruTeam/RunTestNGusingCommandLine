@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="codekru">
+	<test name="codekru">
+		<classes>
+			<class name="Test.CodekruTest" />
+		</classes>
+	</test>
+</suite>
